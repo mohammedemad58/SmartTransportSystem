@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mohamed_emad\\Desktop\\SmartTransportSystem_Complete (2)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3194428-FEB5-4165-B712-3D7FE8353537}|SmartTransportSystem-main\\cars_WebApplication1.csproj|c:\\users\\mohamed_emad\\desktop\\smarttransportsystem_complete (2)\\smarttransportsystem-main\\employee_subscriber_management.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E3194428-FEB5-4165-B712-3D7FE8353537}|SmartTransportSystem-main\\cars_WebApplication1.csproj|solutionrelative:smarttransportsystem-main\\employee_subscriber_management.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3194428-FEB5-4165-B712-3D7FE8353537}|SmartTransportSystem-main\\cars_WebApplication1.csproj|C:\\Users\\mohamed_emad\\Desktop\\SmartTransportSystem_Complete (2)\\smarttransportsystem-main\\employee_subscriber_management.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3194428-FEB5-4165-B712-3D7FE8353537}|SmartTransportSystem-main\\cars_WebApplication1.csproj|solutionrelative:smarttransportsystem-main\\employee_subscriber_management.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3194428-FEB5-4165-B712-3D7FE8353537}|SmartTransportSystem-main\\cars_WebApplication1.csproj|C:\\Users\\mohamed_emad\\Desktop\\SmartTransportSystem_Complete (2)\\smarttransportsystem-main\\global.asax||{4D30FDB3-AB3E-4810-B6F2-64627BCCA384}",
+      "RelativeMoniker": "D:0:0:{E3194428-FEB5-4165-B712-3D7FE8353537}|SmartTransportSystem-main\\cars_WebApplication1.csproj|solutionrelative:smarttransportsystem-main\\global.asax||{4D30FDB3-AB3E-4810-B6F2-64627BCCA384}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3194428-FEB5-4165-B712-3D7FE8353537}|SmartTransportSystem-main\\cars_WebApplication1.csproj|C:\\Users\\mohamed_emad\\Desktop\\SmartTransportSystem_Complete (2)\\smarttransportsystem-main\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3194428-FEB5-4165-B712-3D7FE8353537}|SmartTransportSystem-main\\cars_WebApplication1.csproj|solutionrelative:smarttransportsystem-main\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "employee_subscriber_management.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed_emad\\Desktop\\SmartTransportSystem_Complete (2)\\SmartTransportSystem-main\\employee_subscriber_management.aspx.cs",
+              "RelativeDocumentMoniker": "SmartTransportSystem-main\\employee_subscriber_management.aspx.cs",
+              "ToolTip": "C:\\Users\\mohamed_emad\\Desktop\\SmartTransportSystem_Complete (2)\\SmartTransportSystem-main\\employee_subscriber_management.aspx.cs",
+              "RelativeToolTip": "SmartTransportSystem-main\\employee_subscriber_management.aspx.cs",
+              "ViewState": "AgIAAIAFAAAAAAAAAAAmwI8FAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T08:39:50.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "employee_subscriber_management.aspx",
+              "DocumentMoniker": "C:\\Users\\mohamed_emad\\Desktop\\SmartTransportSystem_Complete (2)\\SmartTransportSystem-main\\employee_subscriber_management.aspx",
+              "RelativeDocumentMoniker": "SmartTransportSystem-main\\employee_subscriber_management.aspx",
+              "ToolTip": "C:\\Users\\mohamed_emad\\Desktop\\SmartTransportSystem_Complete (2)\\SmartTransportSystem-main\\employee_subscriber_management.aspx",
+              "RelativeToolTip": "SmartTransportSystem-main\\employee_subscriber_management.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-11-24T08:37:34.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Global.asax",
+              "DocumentMoniker": "C:\\Users\\mohamed_emad\\Desktop\\SmartTransportSystem_Complete (2)\\SmartTransportSystem-main\\Global.asax",
+              "RelativeDocumentMoniker": "SmartTransportSystem-main\\Global.asax",
+              "ToolTip": "C:\\Users\\mohamed_emad\\Desktop\\SmartTransportSystem_Complete (2)\\SmartTransportSystem-main\\Global.asax",
+              "RelativeToolTip": "SmartTransportSystem-main\\Global.asax",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000179|",
+              "WhenOpened": "2026-11-24T07:41:33.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed_emad\\Desktop\\SmartTransportSystem_Complete (2)\\SmartTransportSystem-main\\Global.asax.cs",
+              "RelativeDocumentMoniker": "SmartTransportSystem-main\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\mohamed_emad\\Desktop\\SmartTransportSystem_Complete (2)\\SmartTransportSystem-main\\Global.asax.cs",
+              "RelativeToolTip": "SmartTransportSystem-main\\Global.asax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T07:20:26.149Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
